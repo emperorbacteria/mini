@@ -121,7 +121,7 @@ body {
 }
 
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 670px){
     .nav {
         height: 80px;
     }
@@ -230,7 +230,7 @@ body {
 
 }
 
-@media screen and (min-width:500px) and (max-width: 900px){
+@media screen and (min-width:670px) and (max-width: 900px){
     .nav {
         height: 100px;
     }
